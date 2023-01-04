@@ -36,8 +36,11 @@
 
 
 Использованные источники:
+
 \- [Презентация "Отказоустойчивость: Кластеризация", Александр Зубарев](https://u.netology.ru/backend/uploads/lms/attachments/files/data/33431/SRLB-9__%D0%9A%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.pdf)
+
 \- https://intuit.ru/studies/courses/45/45/lecture/1340 
+
 \- https://www.techtarget.com/searchdatacenter/tip/Learn-the-difference-between-SMP-vs-MPP
 
 
@@ -98,7 +101,9 @@ MPP система строится из отдельных модулей, со
 
 
 Использованные источники:
+
 \- [Презентация "Отказоустойчивость: Кластеризация", Александр Зубарев](https://u.netology.ru/backend/uploads/lms/attachments/files/data/33431/SRLB-9__%D0%9A%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.pdf)
+
 \- https://studfile.net/preview/5171135/page:149/
 
 ---
@@ -123,7 +128,9 @@ MPP система строится из отдельных модулей, со
 вычислительная мощность.
 
 Использованные источники:
+
 \- [Презентация "Отказоустойчивость: Кластеризация", Александр Зубарев](https://u.netology.ru/backend/uploads/lms/attachments/files/data/33431/SRLB-9__%D0%9A%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.pdf)
+
 \- https://studref.com/351196/informatika/ispolzovanie_klasterov
 
 
